@@ -1,0 +1,167 @@
+{
+    "css": [{
+    "questionText": "If we want define style for an unique element, then which css selector will we use ?",
+    "options": [{
+    "text": "Id",
+    "correct": true
+    },
+    {
+    "text": "class"
+    },
+    {
+    "text": "text"
+    },
+    {
+    "text": "name"
+    }
+    ],
+    "explanation": "TS uses a colon (:) to separate the property name from the property type"
+    },
+    {
+    "questionText": "If we don't want to allow a floating div to the left side of an element, which css property will we use ",
+    "options": [{
+    "text": "clear"
+    },
+    {
+    "text": "padding"
+    },
+    {
+    "text": "text"
+    },
+    {
+    "text": "margin",
+    "correct": true
+    }
+    ],
+    "explanation": "enum is not used as a type in TypeScript"
+    },
+    {
+    "questionText": "If we want to wrap a block of text around an image, which css property will we use ?",
+    "options": [{
+    "text": "Wrap."
+    },
+    {
+    "text": "float",
+    "correct": true
+    },
+    {
+    "text": "push"
+    },
+    {
+    "text": "align"
+    }
+    ],
+    "explanation": "interfaces are typically used to list the properties and methods for an object"
+    },
+    {
+    "questionText": "How else can Array<number> be written in CSS?",
+    "options": [{
+    "text": "@number"
+    },
+    {
+    "text": "number[]",
+    "correct": true
+    },
+    {
+    "text": "number!"
+    },
+    {
+    "text": "number?"
+    }
+    ],
+    "explanation": "number[] is another way of writing Array<number> in TypeScript"
+    },
+    {
+    "questionText": "In which of these does a class take parameters?",
+    "options": [{
+    "text": "constructor",
+    "correct": true
+    },
+    {
+    "text": "destructor"
+    },
+    {
+    "text": "import"
+    },
+    {
+    "text": "subscribe"
+    }
+    ],
+    "explanation": "a constructor is used by a class to take in parameters"
+    },
+    {
+    "questionText": " f we want to show an Arrow as cursor, then which value we will use ?",
+    "options": [{
+    "text": "pointer"
+    },
+    {
+    "text": "array"
+    },
+    {
+    "text": "arr"
+    },
+    {
+    "text": "default",
+    "correct": true
+    }
+    ],
+    "explanation": "async is not used as an access modifier type in TypeScript"
+    },
+    {
+    "questionText": "If we want to use a nice looking green dotted border around an image, which css property will we use?",
+    "options": [{
+    "text": "border-color"
+    },
+    {
+    "text": "border-style",
+    "correct": true
+    },
+    {
+    "text": "border-space"
+    },
+    {
+    "text": "border-font"
+    }
+    ],
+    "explanation": "the export keyword allows for the information to be transmitted between files"
+    },
+    {
+    "questionText": "Which is an array method to generate a new array based on a condition?",
+    "options": [{
+    "text": "filter",
+    "correct": true
+    },
+    {
+    "text": "map"
+    },
+    {
+    "text": "async"
+    },
+    {
+    "text": "enum"
+    }
+    ],
+    "explanation": "filter is a method used to conditionally create a new array"
+    },
+    {
+    "questionText": "How is a property accessible within a class?",
+    "options": [{
+    "text": "Using this.propertyName",
+    "correct": true
+    },
+    {
+    "text": "Accessors"
+    },
+    {
+    "text": "Destructuring"
+    },
+    {
+    "text": "Arrow function"
+    }
+    ],
+    "explanation": "this.propertyName is the way to access a specific property within a class"
+    }
+    ]
+    }
+    
+    
